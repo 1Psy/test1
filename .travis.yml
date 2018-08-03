@@ -2,6 +2,6 @@ language: python
 python:
   - "3.4"
   - "3.5"
-notifications:
-  slack: 'travka:cbGpBx995ab5MesDsqeXPEJN'
+ notifications:
+    slack: travka:XYDh8EiY4zRokeamwNkwkI89
 script: python -m unittest
